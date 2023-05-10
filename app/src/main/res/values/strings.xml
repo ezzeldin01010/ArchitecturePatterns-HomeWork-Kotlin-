@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArchitecturePatterns-HomeWork(Kotlin)</string>
+    <string name="plus">+</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="first_number">4</string>
+    <string name="second_number">2</string>
+</resources>
